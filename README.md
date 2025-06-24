@@ -11,6 +11,6 @@ I'm using this repo to:
 ## 🗂️ Structure
 01_Python Basics I
  - Math functions/Operator precedence
- - Data types
+ - Data types <br>
 02_Python Basics II
 
