@@ -14,4 +14,6 @@ I'm using this repo to:
  - Data types
 
 02_Python Basics II
+ - Conditional logic
+ - Functions
 
