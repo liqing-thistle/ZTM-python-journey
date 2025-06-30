@@ -10,10 +10,8 @@ I'm using this repo to:
 
 ## 🗂️ Structure
 01_Python Basics I
- - Math functions/Operator precedence
- - Data types
 
 02_Python Basics II
- - Conditional logic
- - Functions
+
+03_Object-Orientied Programming (OOP)
 
