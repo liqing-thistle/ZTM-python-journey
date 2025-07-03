@@ -15,3 +15,6 @@ I'm using this repo to:
 
 03_Object-Orientied Programming (OOP)
 
+04_Functional Programming
+
+05_Advanced Python
